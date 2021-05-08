@@ -2,7 +2,7 @@
 
 ## :pushpin: Sobre este projeto
 
-Este projeto é a camada de front-end de uma aplicação desenvolvida por um grupo de estudantes universitários :books:.
+Este projeto é uma aplicação desenvolvida por um grupo de estudantes universitários :books:.
 
 A proposta deste projeto é disponibilizar uma plataforma destinada a estudantes dos mais diversos níveis de ensino, onde seja possível realizar a compra e venda de materias que são utilizados durante o processo de aprendizado de determinadas disciplinas.
 
